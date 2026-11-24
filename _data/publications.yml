@@ -98,7 +98,7 @@ main:
     bibtex: https://dblp.org/rec/conf/ppsn/DuanZSYS22.html?view=bibtex
     image: ../assets/img/2208_PPSN.png
     # notes:
-    # others:
+    others: CCF <strong><a href="https://www.ccf.org.cn/Academic_Evaluation/By_category/">B</a></strong>
 
   - title: Distributed evolution strategies for large-scale optimization
     authors: Qiqi Duan, Guochen Zhou, <strong>Chang Shao</strong>, Yijun Yang, Yuhui Shi
@@ -112,7 +112,7 @@ main:
     bibtex: https://dblp.org/rec/conf/gecco/DuanZSYS22.html?view=bibtex
     image: ../assets/img/2207_GECCOC.png
     # notes:
-    # others:
+    others: CCF <strong><a href="https://www.ccf.org.cn/Academic_Evaluation/By_category/">C</a></strong>
 
   - title: Parallel population-based simulated annealing for high-dimensional black-box optimization
     authors: Youkui Zhang, Qiqi Duan, <strong>Chang Shao</strong>, Yuhui Shi
@@ -168,7 +168,7 @@ main:
     bibtex: https://dblp.org/rec/conf/cec/DuanSQS019.html?view=bibtex
     image: ../assets/img/1906_CEC.png
     # notes:
-    # others:
+    others: CCF <strong><a href="https://www.ccf.org.cn/Academic_Evaluation/By_category/">C</a></strong>
 
   - title: Cloud service resource allocation with particle swarm optimization algorithm
     authors: Shi Cheng, Lantian Guo, Tao Yang, Jiqiang Feng, Yifei Sun, <strong>Chang Shao</strong>, Qiqi Duan
