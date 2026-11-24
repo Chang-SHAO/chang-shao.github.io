@@ -1,0 +1,199 @@
+# Publications shown on /publications/, grouped by year (newest first).
+# Fields: title, authors, conference_short (badge), conference, year, pdf, code, page, data, bibtex, image, notes, others
+# Use absolute URLs for images and files so that they work on every page.
+main:
+  - title: "Inverse-driven dynamic multiobjective optimization via incremental LSTM learning in objective space"
+    authors: <strong>Chang Shao</strong>, Shi Cheng, Nana Pu, Jing Jiang, Yuhui Shi
+    conference_short: ASOC
+    conference: Applied Soft Computing
+    year: 2026
+    pdf: https://doi.org/10.1016/j.asoc.2026.116862
+    code: https://github.com/dynoptimization/pydmoo
+    # page:
+    # data:
+    # bibtex:
+    image: ../assets/img/2611_ASOC.png
+    # notes:
+    others: JCR <strong>Q1</strong>; IF <strong>7.9</strong>
+
+  - title: "Inverse modeling for dynamic multiobjective optimization with knowledge transfer in objective space"
+    authors: <strong>Chang Shao</strong>, Qi Zhao, Nana Pu, Shi Cheng, Jing Jiang, Yuhui Shi
+    conference_short: SWEVO
+    conference: Swarm and Evolutionary Computation
+    year: 2026
+    pdf: https://doi.org/10.1016/j.swevo.2026.102536
+    code: https://github.com/dynoptimization/pydmoo
+    # page:
+    # data:
+    bibtex: https://dblp.uni-trier.de/rec/journals/swevo/ShaoZPCJS26a.html?view=bibtex
+    image: ../assets/img/2609_SWEVO.png
+    # notes:
+    others: JCR <strong>Q1</strong>; IF <strong>9.6</strong>
+
+  - title: "Benchmarking continuous dynamic multi-objective optimization: Survey and generalized test suite"
+    authors: <strong>Chang Shao</strong>, Qi Zhao, Nana Pu, Shi Cheng, Jing Jiang, Yuhui Shi
+    conference_short: SWEVO
+    conference: Swarm and Evolutionary Computation
+    year: 2026
+    pdf: https://doi.org/10.1016/j.swevo.2026.102361
+    code: https://github.com/dynoptimization/pydmoo
+    # page:
+    # data:
+    bibtex: https://dblp.uni-trier.de/rec/journals/swevo/ShaoZPCJS26.html?view=bibtex
+    image: ../assets/img/2603_SWEVO.png
+    # notes:
+    others: JCR <strong>Q1</strong>; IF <strong>9.6</strong>
+
+  - title: "PyPop7: A pure-python library for population-based black-box optimization"
+    authors: Qiqi Duan<sup>*</sup>, Guochen Zhou<sup>*</sup>, <strong>Chang Shao</strong><sup>*</sup>, Zhuowei Wang, Mingyang Feng, Yuwei Huang,Yajing Tan, Yijun Yang, Qi Zhao, Yuhui Shi
+    conference_short: JMLR
+    conference: Journal of Machine Learning Research
+    year: 2024
+    pdf: https://www.jmlr.org/papers/v25/23-0386.html
+    code: https://github.com/Evolutionary-Intelligence/pypop
+    # page:
+    # data:
+    bibtex: https://dblp.uni-trier.de/rec/journals/jmlr/DuanZS0FHTY0024.html?view=bibtex
+    image: ../assets/img/2410_JMLR.png
+    notes: <sup>*</sup> co-first author
+    others: JCR <strong>Q1</strong>; IF <strong>6.8</strong>; CCF <strong><a href="https://www.ccf.org.cn/Academic_Evaluation/By_category/">A</a></strong>
+
+  - title: "Distributed evolution strategies with multi-level learning for large-scale black-box optimization"
+    authors: Qiqi Duan, <strong>Chang Shao</strong>, Guochen Zhou, Minghan Zhang, Qi Zhao, Yuhui Shi
+    conference_short: TPDS
+    conference: IEEE Transactions on Parallel and Distributed Systems
+    year: 2024
+    pdf: https://doi.org/10.1109/TPDS.2024.3437688
+    code: https://github.com/Evolutionary-Intelligence/M-DES
+    # page:
+    # data:
+    bibtex: https://dblp.uni-trier.de/rec/journals/tpds/DuanSZZZS24.html?view=bibtex
+    image: ../assets/img/240919_TPDS.png
+    # notes:
+    others: JCR <strong>Q1</strong>; IF <strong>5.9</strong>; CCF <strong><a href="https://www.ccf.org.cn/Academic_Evaluation/By_category/">A</a></strong>
+
+  - title: "Cooperative coevolution for non-separable large-scale black-box optimization: Convergence analyses and distributed accelerations"
+    authors: Qiqi Duan<sup>*</sup>, <strong>Chang Shao</strong><sup>*</sup>, Guochen Zhou, Haobin Yang, Qi Zhao, Yuhui Shi
+    conference_short: ASOC
+    conference: Applied Soft Computing
+    year: 2024
+    pdf: https://doi.org/10.1016/j.asoc.2024.112232
+    code: https://github.com/Evolutionary-Intelligence/DCC
+    # page:
+    # data:
+    bibtex: https://dblp.uni-trier.de/rec/journals/asc/DuanSZYZS24.html?view=bibtex
+    image: ../assets/img/240912_ASOC.png
+    notes: <sup>*</sup> co-first author
+    others: JCR <strong>Q1</strong>; IF <strong>7.9</strong>
+
+  - title: Collective learning of low-memory matrix adaptation for large-scale black-box optimization
+    authors: Qiqi Duan, Guochen Zhou, <strong>Chang Shao</strong>, Yijun Yang, Yuhui Shi
+    conference_short: PPSN
+    conference: Parallel Problem Solving from Nature
+    year: 2022
+    pdf: https://doi.org/10.1007/978-3-031-14721-0_20
+    # code:
+    # page:
+    # data:
+    bibtex: https://dblp.org/rec/conf/ppsn/DuanZSYS22.html?view=bibtex
+    image: ../assets/img/2208_PPSN.png
+    # notes:
+    # others:
+
+  - title: Distributed evolution strategies for large-scale optimization
+    authors: Qiqi Duan, Guochen Zhou, <strong>Chang Shao</strong>, Yijun Yang, Yuhui Shi
+    conference_short: GECCOC
+    conference: Proceedings of the 2022 Genetic and Evolutionary Computation Conference Companion
+    year: 2022
+    pdf: https://doi.org/10.1145/3520304.3528784
+    code:
+    # page:
+    # data:
+    bibtex: https://dblp.org/rec/conf/gecco/DuanZSYS22.html?view=bibtex
+    image: ../assets/img/2207_GECCOC.png
+    # notes:
+    # others:
+
+  - title: Parallel population-based simulated annealing for high-dimensional black-box optimization
+    authors: Youkui Zhang, Qiqi Duan, <strong>Chang Shao</strong>, Yuhui Shi
+    conference_short: SSCI
+    conference: 2021 IEEE Symposium Series on Computational Intelligence
+    year: 2021
+    pdf: https://doi.org/10.1109/SSCI50451.2021.9659957
+    code:
+    # page:
+    # data:
+    bibtex: https://dblp.org/rec/conf/ssci/ZhangDSS21.html?view=bibtex
+    image: ../assets/img/2112_SSCI.png
+    # notes:
+    # others:
+
+  - title: Generalized test suite for continuous dynamic multi-objective optimization
+    authors: <strong>Chang Shao</strong>, Qi Zhao, Yuhui Shi, Jing Jiang
+    conference_short: EMO
+    conference: Evolutionary Multi-Criterion Optimization
+    year: 2021
+    pdf: https://doi.org.10.1007/978-3-030-72062-9_17
+    code:
+    # page:
+    # data:
+    bibtex: https://dblp.org/rec/conf/emo/ShaoZSJ21.html?view=bibtex
+    image: ../assets/img/2103_EMO.png
+    notes: Oral
+    # others:
+
+  - title: Hierarchical decomposition based cooperative coevolution for large-scale black-box optimization
+    authors: Qiqi Duan, Liang Qu, <strong>Chang Shao</strong>, Yuhui Shi
+    conference_short: SSCI
+    conference: 2019 IEEE Symposium Series on Computational Intelligence
+    year: 2019
+    pdf: https://doi.org/10.1109/SSCI44817.2019.9003169
+    code:
+    # page:
+    # data:
+    bibtex: https://dblp.org/rec/conf/ssci/DuanQSS19.html?view=bibtex
+    image: ../assets/img/1912_SSCI.png
+    # notes:
+    # others:
+
+  - title: "When cooperative co-evolution meets coordinate descent: Theoretically deeper understandings and practically better implementations"
+    authors: Qiqi Duan, <strong>Chang Shao</strong>, Liang Qu, Yuhui Shi, Ben Niu
+    conference_short: CEC
+    conference: 2019 IEEE Congress on Evolutionary Computation
+    year: 2019
+    pdf: https://doi.org/10.1109/CEC.2019.8790148
+    code:
+    # page:
+    # data:
+    bibtex: https://dblp.org/rec/conf/cec/DuanSQS019.html?view=bibtex
+    image: ../assets/img/1906_CEC.png
+    # notes:
+    # others:
+
+  - title: Cloud service resource allocation with particle swarm optimization algorithm
+    authors: Shi Cheng, Lantian Guo, Tao Yang, Jiqiang Feng, Yifei Sun, <strong>Chang Shao</strong>, Qiqi Duan
+    conference_short: BICTA
+    conference: "Bio-inspired Computing: Theories and Applications"
+    year: 2017
+    pdf: https://doi.org/10.1007/978-981-10-7179-9_41
+    code:
+    # page:
+    # data:
+    bibtex: https://dblp.org/rec/conf/bic-ta/ChengGYFSSD17.html?view=bibtex
+    image: ../assets/img/1711_BICTA.png
+    # notes:
+    # others:
+
+  - title: Visualizing the search dynamics in a high-dimensional space for a particle swarm optimizer
+    authors: Qiqi Duan, <strong>Chang Shao</strong><sup>†</sup>, Xiaodong Li, Yuhui Shi
+    conference_short: SEAL
+    conference: Simulated Evolution and Learning
+    year: 2017
+    pdf: https://doi.org/10.1007/978-3-319-68759-9_82
+    code:
+    # page:
+    # data:
+    bibtex: https://dblp.org/rec/conf/seal/DuanSLS17.html?view=bibtex
+    image: ../assets/img/1710_SEAL.png
+    notes: <sup>†</sup> Corresponding author
+    # others:

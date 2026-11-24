@@ -1,0 +1,16 @@
+# Preprints are listed above the publications on /publications/.
+# Leave "main:" empty (or delete the entries) to hide the section.
+main:
+  - title: "Benchmarking Continuous Dynamic Multi-Objective Optimization: Survey and Generalized Test Suite"
+    authors: <strong>Chang Shao</strong>, Qi Zhao, Nana Pu, Shi Cheng, Jing Jiang, Yuhui Shi
+    conference_short: Preprint
+    conference: arXiv preprint arXiv:2601.01317
+    year: 2026
+    pdf: https://arxiv.org/abs/2601.01317
+    code: https://github.com/dynoptimization/pydmoo
+    # page:
+    # data:
+    bibtex: https://dblp.org/rec/journals/corr/abs-2601-01317.html?view=bibtex
+    image: ../assets/img/2603_SWEVO.png
+    # notes:
+    # others:

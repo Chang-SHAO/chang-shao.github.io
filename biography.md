@@ -1,0 +1,15 @@
+---
+layout: default
+title: Biography
+permalink: /biography/
+---
+
+<h1 id="biography" style="height:0;margin:0;padding:0;line-height:0;overflow:hidden;"></h1>
+
+<h2 class="page-title">Biography</h2>
+
+Chang Shao recently completed his Ph.D. in Artificial Intelligence at the [School of Computer Science](https://www.uts.edu.au/about/faculties/engineering-and-information-technology/computer-science), [University of Technology Sydney (UTS)](https://www.uts.edu.au/), and was affiliated with the [Australian Artificial Intelligence Institute (AAII)](https://www.uts.edu.au/research/centres/australian-artificial-intelligence-institute). He was supervised by A/Prof. [Jing Jiang](https://profiles.uts.edu.au/Jing.Jiang), with Chair Prof. [Chengqi Zhang](https://profiles.uts.edu.au/Chengqi.Zhang) (IEEE Fellow) and Chair Prof. [Yuhui Shi](https://www.sustech.edu.cn/en/faculties/shiyuhui.html) (IEEE Fellow) as co-supervisors. His doctoral research focused on **dynamic multi-objective optimization: benchmarks and algorithms**. His broader research lies at the intersection of **evolutionary computation** and **machine learning**, with a particular interest in optimization problems whose objectives, constraints, or environments change over time, including **LLM-assisted dynamic optimization** and the **dynamic evolution and adaptation of agents**.
+
+Prior to his doctoral studies, he was a teaching and research assistant at the [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/), Shenzhen, from 2016 to 2020, where he supported the Optimization and Learning Lab and co-developed the [pypop](https://github.com/Evolutionary-Intelligence/pypop) library. He received his M.S. in Applied Mathematics (2016) and his B.S. in Mathematics and Applied Mathematics (2013) from [Lanzhou University](https://www.lzu.edu.cn/), where he was advised by Prof. [Wantong Li](https://mathteacher.lzu.edu.cn/system/TeacherProfileqt/content2.jsp?id=61).
+
+He is one of the three core developers of [pypop](https://github.com/Evolutionary-Intelligence/pypop), a pure-Python library for large-scale black-box optimization with roughly 290 GitHub stars and over 150,000 downloads; related work was published as a co-first-authored paper in the **Journal of Machine Learning Research**. He also leads the development of [pydmoo](https://github.com/dynoptimization/pydmoo), a pure-Python library for dynamic multi-objective optimization, and has contributed bug fixes to [pymoo](https://github.com/the-dual-space/pymoo). His work has appeared in **Applied Soft Computing**, **Swarm and Evolutionary Computation**, the **Journal of Machine Learning Research**, and **IEEE Transactions on Parallel and Distributed Systems**, as well as at conferences such as **PPSN**, **GECCO**, **CEC**, and **EMO**. He has served as a reviewer for journals including *Engineering Applications of Artificial Intelligence*, *Applied Soft Computing*, *Swarm and Evolutionary Computation*, *Pattern Recognition Letters*, *Concurrency and Computation: Practice and Experience*, and *Complexity*.

@@ -1,0 +1,28 @@
+main:
+
+  # - title: "More"
+  #   right: true
+  #   children:
+  #     - title: "Talks"
+  #       url: talks/
+
+  - title: "Biography"
+    url: biography/
+
+  # - title: "Awards"
+  #   url: awards/
+
+  # - title: "Group"
+  #   url: research-group/
+
+  - title: "Service"
+    url: service/
+
+  # - title: "Teaching"
+  #   url: teaching/
+
+  - title: "Publications"
+    url: publications/
+
+  - title: "Home"
+    url:

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    {% include head.html prefix="./" %}
+  </head>
+  <body>
+
+    {% include topnav.html prefix="./" %}
+
+    <div class="wrapper single-col">
+      {% include hero.html prefix="./" %}
+      <section>
+
+      {{ content }}
+
+      <br>
+
+      {% include page-end.html home=true %}
+
+      </section>
+      {% include footer.html %}
+    </div>
+    <script src="./assets/js/scale.fix.js"></script>
+  </body>
+</html>
